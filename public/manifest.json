@@ -1,0 +1,15 @@
+{
+  "short_name": "VCT 14",
+  "name": "Vọc cùng Thành #14 - E2E Testing với Cypress",
+  "icons": [
+    {
+      "src": "egany.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
