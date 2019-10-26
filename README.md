@@ -31,6 +31,12 @@ npm run cypress
 npm run build
 ```
 
+## Sử dụng
+
+Để chạy được test, bạn cần start dev server trước `npm start`, sau đó dùng lệnh `npm run cypress` để start _CyPress GUI_.
+
+Đến đây thì các bạn có thể lựa chọn bài test để chạy. Chi tiết xem thêm tại trang chủ của _CyPress_ nhé!
+
 ## Tài liệu tham khảo
 
 - [create-react-app][cra]
